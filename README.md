@@ -1,5 +1,7 @@
 # Gerador de Certificados
 
+
+## Modo de Uso
 1 - Instalar o Python Usando o Passo a Passo em "Instalação Python.html".  
 2 - Executar o Arquivo "Após Instalação Python.cmd".  
 3 - Não deletar Pasta Basico nem um de seus Arquivos.  
