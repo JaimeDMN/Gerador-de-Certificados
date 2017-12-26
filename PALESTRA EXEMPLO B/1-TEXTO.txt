@@ -1,6 +1,0 @@
-Declaramos que <b>{}</b>, ministrou o
-minicurso, intitulado Python para Sobrevivência, na I
-Semana Acadêmica de Engenharia e Tecnologias,
-promovido pela Universidade Tecnológica Federal do
-Paraná do Câmpus Guarapuava, realizada nos dias 25 a 29
-de setembro.
