@@ -16,7 +16,7 @@
 
 ## Exemplo de Uso
 
-### TEXTO.txt
+### 1-TEXTO.txt
 ```
 Declaramos que <b>{}</b>, cursou o
 minicurso, intitulado EXEMPLO, no EVENTO EXEMPLO,
